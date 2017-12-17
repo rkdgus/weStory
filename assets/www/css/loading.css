@@ -1,0 +1,17 @@
+/*  로딩창 */
+#copyright{
+	border:none;
+}
+
+#loading img {
+	display:block;
+	margin:0 auto;
+	margin-top:65%;
+}
+
+#copyright p{
+	color:white;
+	font-size:11px;
+	text-align: center;
+	font-weight: normal;
+}
